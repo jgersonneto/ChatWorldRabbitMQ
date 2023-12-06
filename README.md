@@ -6,6 +6,6 @@
 
 ###### Primeiro rodar o servidor RPC
 
-~~~javascript 
+~~~python 
 python Server_RPC.py
 ~~~
