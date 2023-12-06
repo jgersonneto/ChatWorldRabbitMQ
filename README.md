@@ -1,6 +1,6 @@
 # Chat com RabbitMQ
 
->Bem-vindo ao nosso sistema de chat baseado em Python, que utiliza RabbitMQ para comunicação assíncrona, RPC para gerenciamento de salas e Tópicos para direcionamento eficiente de mensagens. Este readme fornecerá insights sobre o projeto e orientará você na configuração e utilização do sistema.
+>>  Bem-vindo ao nosso sistema de chat baseado em Python, que utiliza RabbitMQ para comunicação assíncrona, RPC para gerenciamento de salas e Tópicos para direcionamento eficiente de mensagens. Este readme fornecerá insights sobre o projeto e orientará você na configuração e utilização do sistema.
 
 ### Para rodar o projeto você precisa:
 
