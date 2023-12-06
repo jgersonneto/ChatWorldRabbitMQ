@@ -4,7 +4,8 @@
 
 #### -----> No Terminal <---------
 
+###### Primeiro rodar o servidor RPC
+
 ~~~javascript 
-//Para rodar o servidor RPC
+python Server_RPC.py
 ~~~
-*python Server_RPC.py 
