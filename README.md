@@ -4,4 +4,7 @@
 
 #### -----> No Terminal <---------
 
-*python Server_RPC.py ˋˋˋjavascript //Para rodar o servidor RPCˋˋˋ
+ˋˋˋjavascript 
+//Para rodar o servidor RPC
+ˋˋˋ
+*python Server_RPC.py 
