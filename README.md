@@ -9,7 +9,10 @@
 
 ### Configuração
 
-Desenvolvemos este sistema de chat para proporcionar uma solução escalável e eficiente para salas de chat em Python, aproveitando o poder do RabbitMQ para comunicação assíncrona, RPC para gerenciamento de salas e Tópicos para direcionamento seletivo de mensagens.
+#### Pré-requisitos:
+
+    * Certifique-se de ter o RabbitMQ instalado e em execução.
+    * Instale as dependências do projeto com pip install
 
 
 #### -----> No Terminal <---------
