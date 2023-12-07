@@ -16,31 +16,32 @@ Desenvolvemos este sistema de chat para proporcionar uma solução escalável e 
 
 #### Inicialização do Sistema:
 
-Execute o **servidor RPC** do chat com:
+Execute o **servidor RPC** do chat no Terminal com:
 ~~~python 
 python Server_RPC.py
 ~~~
 
-#### -----> No Terminal <---------
-
-###### Primeiro passo - rodar o servidor RPC
-
-
-
-###### Segundo passo - rodar o servidor Tópico
-
+Execute o **servidor TÓPICO** do chat no Terminal com:
 ~~~python 
 python Consumer1.py
 ~~~
 
-
-###### Terceiro passo - rodar o ChatWorld
-
+Execute o **ChatWorld** para começa chat no Terminal com:
 ~~~python 
 python ChatWorld.py
 ~~~
 
+**A partir daí seguir os passos do chat**
 
-###### A partir daí seguir os passos do chat
+### Como Funciona
 
+RPC para Gerenciamento de Salas
+*Listar Salas: Utilize chamadas RPC para obter a lista de salas disponíveis.
 
+Tópicos para Direcionamento de Mensagens
+*Cada sala está associada a um Tópico exclusivo.
+*As mensagens são direcionadas às salas apropriadas usando Tópicos.
+
+### Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas, propor melhorias ou enviar pull requests.
