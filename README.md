@@ -12,16 +12,20 @@ Desenvolvemos este sistema de chat para proporcionar uma solução escalável e 
 #### Pré-requisitos:
 
 * Certifique-se de ter o RabbitMQ instalado e em execução.
-* Instale as dependências do projeto com *pip install*
+* Instale as dependências do projeto com **pip install**
 
+#### Inicialização do Sistema:
+
+Execute o **servidor RPC** do chat com:
+~~~python 
+python Server_RPC.py
+~~~
 
 #### -----> No Terminal <---------
 
 ###### Primeiro passo - rodar o servidor RPC
 
-~~~python 
-python Server_RPC.py
-~~~
+
 
 ###### Segundo passo - rodar o servidor Tópico
 
