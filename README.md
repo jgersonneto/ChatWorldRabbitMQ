@@ -12,7 +12,7 @@ Desenvolvemos este sistema de chat para proporcionar uma solução escalável e 
 #### Pré-requisitos:
 
 * Certifique-se de ter o RabbitMQ instalado e em execução.
-* Instale as dependências do projeto com pip install
+* Instale as dependências do projeto com *pip install*
 
 
 #### -----> No Terminal <---------
